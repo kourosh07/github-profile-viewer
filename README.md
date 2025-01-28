@@ -11,3 +11,5 @@ A lightweight and user-friendly web application to quickly view GitHub profiles.
 ## Demo :camera:
 
 ![Demo Screenshot](https://github.com/kourosh07/github-profile-viewer/blob/main/Screenshot%202024-10-17%20205823.png)
+
+## How to Use :wrench:
