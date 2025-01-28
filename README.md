@@ -9,3 +9,5 @@ A lightweight and user-friendly web application to quickly view GitHub profiles.
 - **Open Source**: Fully customizable and open for contributions.
 
 ## Demo :camera:
+
+![Demo Screenshot](https://github.com/kourosh07/github-profile-viewer/blob/main/Screenshot%202024-10-17%20205823.png)
