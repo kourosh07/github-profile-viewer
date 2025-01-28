@@ -17,3 +17,7 @@ A lightweight and user-friendly web application to quickly view GitHub profiles.
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/kourosh07/github-profile-viewer.git
+
+## 
+
+# Best Regards :heart:
